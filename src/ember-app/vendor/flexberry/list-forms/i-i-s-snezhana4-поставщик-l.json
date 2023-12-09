@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-snezhana4-поставщик-e",
+  "editForm": "i-i-s-snezhana4-поставщик-e",
+  "external": false,
+  "caption": "Поставщик",
+  "name": "IISSnezhana4ПоставщикL",
+  "className": "ПоставщикL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-snezhana4-поставщик",
+      "modelProjection": "ПоставщикL"
+    }
+  ]
+}

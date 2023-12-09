@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-snezhana4-менеджер-e",
+  "editForm": "i-i-s-snezhana4-менеджер-e",
+  "external": false,
+  "caption": "Менеджер",
+  "name": "IISSnezhana4МенеджерL",
+  "className": "МенеджерL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-snezhana4-менеджер",
+      "modelProjection": "МенеджерL"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+﻿{
+  "nameSpace": "IIS.Snezhana4",
+  "className": "ТипДоставки",
+  "enumObjects": {
+    "2": "Самовывоз",
+    "1": "Курьером"
+  }
+}

@@ -1,0 +1,64 @@
+﻿{
+  "applicationCaption": "Snezhana4",
+  "applicationTitle": "Snezhana4",
+  "items": [
+    {
+      "link": null,
+      "menuName": "snezhana4",
+      "caption": "Snezhana4",
+      "title": "Snezhana4",
+      "children": [
+        {
+          "link": "i-i-s-snezhana4-менеджер-l",
+          "menuName": null,
+          "caption": "Менеджер",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-snezhana4-заказ-l",
+          "menuName": null,
+          "caption": "Заказ",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-snezhana4-доставка-l",
+          "menuName": null,
+          "caption": "Доставка",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-snezhana4-поставщик-l",
+          "menuName": null,
+          "caption": "Поставщик",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-snezhana4-клиент-l",
+          "menuName": null,
+          "caption": "Клиент",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-snezhana4-производитель-l",
+          "menuName": null,
+          "caption": "Производитель",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-snezhana4-товар-l",
+          "menuName": null,
+          "caption": "Товар",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

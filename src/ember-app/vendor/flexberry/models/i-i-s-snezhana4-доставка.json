@@ -1,0 +1,40 @@
+﻿{
+  "name": "IISSnezhana4Доставка",
+  "modelName": "i-i-s-snezhana4-доставка",
+  "className": "Доставка",
+  "nameSpace": "IIS.Snezhana4",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "типДоставки",
+      "type": "i-i-s-snezhana4-тип-доставки",
+      "flexberryType": "ТипДоставки",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "ДоставкаE",
+      "modelName": "i-i-s-snezhana4-доставка",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "ДоставкаL",
+      "modelName": "i-i-s-snezhana4-доставка",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

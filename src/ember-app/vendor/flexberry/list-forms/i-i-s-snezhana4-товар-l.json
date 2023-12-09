@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-snezhana4-товар-e",
+  "editForm": "i-i-s-snezhana4-товар-e",
+  "external": false,
+  "caption": "Товар",
+  "name": "IISSnezhana4ТоварL",
+  "className": "ТоварL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-snezhana4-товар",
+      "modelProjection": "ТоварL"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Доставка",
+  "name": "IISSnezhana4ДоставкаE",
+  "className": "ДоставкаE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-snezhana4-доставка",
+      "modelProjection": "ДоставкаE"
+    }
+  ]
+}
